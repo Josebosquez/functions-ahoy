@@ -22,8 +22,13 @@ function square (){
 }
 
 function beNice () {
-  
+  greeting = "hello" + firstName;
 }
+
+function changeName () {
+  firstName = "Danger";
+}
+
 
 
 /*********************************************************************************************************************
